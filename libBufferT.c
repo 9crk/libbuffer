@@ -1,3 +1,7 @@
+/*****************************************************
+ * author:admin@9crk.com all rights reserved! 
+ * forbidden copy or any form of distributing
+ * **************************************************/
 #include <sys/shm.h>  
 #include <stdio.h>
 #include <stdlib.h>
